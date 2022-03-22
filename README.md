@@ -1,7 +1,7 @@
 ### Requisitos
 
-Terraform
-AWS CLI
+Terraform<br>
+AWS CLI</br>
 
 ### Para executar a inicialização com o terraform (prepara o diretório atual de trabalho para o uso do terraform):
 terraform init
